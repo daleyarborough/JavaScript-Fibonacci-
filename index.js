@@ -7,4 +7,11 @@ var recursive = function(n) {
     }
 };
 
+||
+
+var fibo = function(n) { 
+  return floor(pow(sqrt((1+sqrt(5))/2),n)/sqrt(5) + 0.5); 
+}; 
+
+
 
